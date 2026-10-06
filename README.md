@@ -1,6 +1,6 @@
 Sales Performance Dashboard (Power BI)
 
-An interactive Power BI report that analyzes $80.45M in sales across product categories, territories, regions and resellers, with slicers for fast filtering.
+An interactive Power BI report that analyzes **$80.45M in sales** across product categories, territories, regions and resellers, with slicers for fast filtering.
 
 [Dashboard preview](images/dashboard-preview.png)
 
@@ -63,7 +63,7 @@ How to open
 
 1. Download `sales-dashboard.pbix` from this repository.
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-3. If prompted, update the data source path or credentials in Transform data → Data source settings.
+3. If prompted, update the data source path or credentials in **Transform data → Data source settings**.
 
 Don't have Power BI? View the PDF export or the preview image above.
 
